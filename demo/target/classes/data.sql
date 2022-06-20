@@ -1,0 +1,1 @@
+insert into testobject (content) values ('Test 1');
